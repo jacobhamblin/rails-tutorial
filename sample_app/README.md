@@ -1,6 +1,3 @@
-# Ruby on Rails Tutorial: sample application
+# discontinued
 
-This is the sample application for the
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+made the sample_app (twitter_clone) in a separate repository.
